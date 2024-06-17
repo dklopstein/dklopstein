@@ -6,6 +6,26 @@ I'm interested in sports analytics and software engineering, but above all else,
 
 Reach me by email: dvklopstein@gmail.com
 
+## Recent Projects 💻
+
+### Recipe Analysis 
+
+| May - Jun 2024 |                                                       |
+| :------------: | :---------------------------------------------------: |
+| Repository     | [Link](https://github.com/dklopstein/recipe-analysis) |
+| Website        | [Link](https://dklopstein.github.io/recipe-analysis)  |
+| Tech Used      | Python, Pandas, Sklearn, Plotly                       |
+
+### Dev Journal 
+
+| May - Jun 2024 |                                                                                                 |
+| :------------: | :---------------------------------------------------------------------------------------------: |
+| Repository     | [Link](https://github.com/cse110-sp24-group25/cse110-sp24-group25)                              |
+| Website        | [Link](https://cse110-sp24-group25.github.io/cse110-sp24-group25/source/homepage/homepage.html) |
+| Tech Used      | HTML, CSS, JavaScript                                                                           |
+
+
+
 <!-- 
 Using:
 https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-languages- 
