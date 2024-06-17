@@ -2,28 +2,23 @@
 
 Hi, I'm Derek! I'm a rising senior studying Math-Computer Science and minoring in Data Science at the University of California, San Diego.
 
-I'm interested in sports analytics and software engineering, but above all else, just learning new things! I love playing sports too, but my favorites are tennis, volleyball, basketball, and pickle ball currently.
+I'm interested in sports analytics and software engineering, but above all else, learning new things! I love playing sports too, but my favorites are tennis, volleyball, basketball, and pickle ball currently.
 
 Reach me by email: dvklopstein@gmail.com
 
 ## Recent Projects 💻
 
-### Recipe Analysis 
+### Recipe Analysis (May - Jun 2024)
 
-| May - Jun 2024 |                                                       |
-| :------------: | :---------------------------------------------------: |
-| Repository     | [Link](https://github.com/dklopstein/recipe-analysis) |
-| Website        | [Link](https://dklopstein.github.io/recipe-analysis)  |
-| Tech Used      | Python, Pandas, Sklearn, Plotly                       |
+| Repository | Website | Tech Used |
+| :--------: | :-----: | :-------: |
+| [Link](https://github.com/dklopstein/recipe-analysis) | [Link](https://dklopstein.github.io/recipe-analysis) | Python, Pandas, Sklearn, Plotly|
 
-### Dev Journal 
+### Dev Journal (May - Jun 2024)
 
-| May - Jun 2024 |                                                                                                 |
-| :------------: | :---------------------------------------------------------------------------------------------: |
-| Repository     | [Link](https://github.com/cse110-sp24-group25/cse110-sp24-group25)                              |
-| Website        | [Link](https://cse110-sp24-group25.github.io/cse110-sp24-group25/source/homepage/homepage.html) |
-| Tech Used      | HTML, CSS, JavaScript                                                                           |
-
+| Repository | Website | Tech Used |
+| :--------: | :-----: | :-------: |
+| [Link](https://github.com/cse110-sp24-group25/cse110-sp24-group25) | [Link](https://cse110-sp24-group25.github.io/cse110-sp24-group25/source/homepage/homepage.html) | HTML, CSS, JavaScript, Jest, Codacy, JSDocs |
 
 
 <!-- 
