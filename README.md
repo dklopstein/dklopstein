@@ -1,6 +1,6 @@
 ## About Me 👋
 
-Hi, I'm Derek! I'm a rising senior studying Math-Computer Science and minoring in Data Science at the University of California, San Diego.
+Hi, I'm Derek! I'm a senior studying Math-Computer Science and minoring in Data Science at the University of California, San Diego.
 
 I'm interested in sports analytics and software engineering, but above all else, learning new things! I love playing sports too, but my favorites are tennis, volleyball, basketball, and pickle ball currently.
 
