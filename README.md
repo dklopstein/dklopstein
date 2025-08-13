@@ -1,21 +1,22 @@
-## About Me 👋
+## Hi, I'm Derek 👋
 
 ![](images/hike.jpeg)
 
-Hi, I'm Derek! I recently graduated with a Bachelor of Science in Math-Computer Science and a minor in Data Science from the University of California, San Diego.
-
-I'm interested in sports and data analytics, as well as learning new things. I love playing sports too — my favorites are tennis, volleyball, basketball, and pickle ball currently.
-
-Don't forget to check out my projects below!
+Welcome to my GitHub profile! I recently graduated with a Bachelor of Science in Math-Computer Science and a minor in Data Science from the University of California, San Diego. Check out my profile and projects below!
 
 Reach me by email: dvklopstein@gmail.com
+
+### 💨 Quick Facts 
+- 💪 Working on a website tailored to college athletes and coaches
+- 📈 Learning more about sport and data anyltics
+- 🎾 I love playing a variety of sports — tennis, volleyball, basketball, and pickleball are a few
 
 <!-- 
 Using:
 https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-languages- 
 -->
 
-### Languages
+### 📚 Languages 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -24,7 +25,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Frameworks and Libraries
+### 🖼️ Frameworks and Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
