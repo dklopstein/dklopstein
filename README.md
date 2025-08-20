@@ -8,7 +8,7 @@ Reach me by email: dvklopstein@gmail.com
 
 ### 💨 Quick Facts 
 - 💪 Working on a website tailored to college athletes and coaches
-- 📈 Learning more about sport and data anyltics
+- 📈 Learning more about sport and data analytics/engineering
 - 🎾 I love playing a variety of sports — tennis, volleyball, basketball, and pickleball are a few
 
 <!-- 
